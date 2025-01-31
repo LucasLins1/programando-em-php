@@ -27,7 +27,7 @@
     $preço_formatado = number_format($preço, 2,  ',',  '.');
 
     //Exibe o resultado 
-    echo "$rua, <br> Preço R$ $preço_formatado";
+    echo "$rua, <br> Preço R$ $preço_formatado"; 
 
     ?>
 
